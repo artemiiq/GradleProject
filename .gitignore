@@ -1,0 +1,8 @@
+build/
+*.iml
+.idea/
+.classpath
+.project
+gradle/wrapper/gradle-wrapper.properties
+*.log
+*.jar
